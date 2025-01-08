@@ -4,4 +4,4 @@ This page contains all the codes for variance estimation in the absolute quantif
 
 The general_functions.R also contains the bootstrap procedure when no replicates are available, other functions are used when there are replicates.
 
-There is also a shiny app, please see
+There is also a shiny app, please see https://digpcr.shinyapps.io/variance_estimate/
